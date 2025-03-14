@@ -1,0 +1,69 @@
+<!-- footer section  -->
+  
+  
+  <section class="footer-section">
+    <div class="footer">
+      <div class="footer-logo">
+        <a href="#">Regal Horizons Hotel</a>
+        <div><img src="/image/regel.png"></div>
+      </div>
+      
+      
+      <h1>Our Address </h1>
+        
+            <!-- Canada Google Maps Section -->
+            <section class="map">
+              <h2></h2>
+             <iframe margin-right:5px; src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d740130.8040339516!2d-80.4780433986395!3d43.562050140560906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d43.653226!2d-79.3831843!4m5!1s0x882b9b7e9b61e989%3A0x50eba1324722eaf2!2sRegal%20Horizons%20Hotel!3m2!1d43.5570653!2d-80.254779!5e0!3m2!1sen!2sca!4v1737742647129!5m2!1sen!2sca" width="400" height="230" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </section>
+        
+        
+        
+         <div class="footer-list">
+        <h1>Contact</h1>
+        <ul>
+          <li><a href="#">Our Canada  Address</a></li>
+          <li><a href="#">125 Delhi St, Guelph, ON N1E 4J5, Canada</a></li>
+          <li><a href="#">+1 365-580-85263</a></li>
+          <li><a href="#">info@regalhorizonshotel.com</a></li>
+        </ul>
+      </div>
+  
+      
+  
+      <div class="footer-list">
+        <h1></h1>
+        <ul>
+          <li><a href="#">Our Australia Address</a></li>
+          <li><a href="#">River St, Mackay QLD 4740, Australia</a></li>
+          <li><a href="#">64080999786521</a></li>
+          <li><a href="#">info@regalhorizonshotel.com</a></li>
+        </ul>
+      </div>
+      
+      
+
+  
+   
+      <div class="footer-list">
+        <h1>Page Links</h1>
+        <ul>
+          <li><a href="faq.php">FAQS</a></li>
+          <li><a href="Apply-for-Job.php">Apply for Job</a></li>
+          <li><a href="Accessibility.php">Accessibility</a></li>
+          <li><a href="privacy-policy.php">Privacy Policy</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="Terms&Conditions.php">Terms & Conditions</a></li>
+        </ul>
+      </div>
+  
+      <div class="footer-list">
+        <h1>Quick Links</h1>
+        <ul>
+          <li><a href="faq.php">FAQS</a></li>
+          <li><a href="Join-the-team.php">Join the Team</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
