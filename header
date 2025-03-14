@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+<!-- Chatra {literal} -->
+<script>
+    (function(d, w, c) {
+        w.ChatraID = 'p58jdWXoXjjnCtCoW';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script>
+<!-- /Chatra {/literal} -->
+<head>  
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Regal Horizons Hotel</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" 
+     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer"
+      />
+      
+      
+      
+      
+     
+     
+      
+      
+      
+</head>
+<body>
+   
+<!-- up box of the dev -->
+
+    <div class="up-box">
+
+   
+    
+    
+    <div class="up">
+    <a href="tel:+1 365-580-85263" style="text-decoration: none;">
+        <i class="fa-solid fa-phone fa-lg" style="color: #FFD43B;"></i>
+    </a>
+</div>
+
+
+    <div class="up">
+       <button onclick="window.location.href='https://regalhorizonshotel.com/Booking-account/login-hotel-rooms.php'"><a>Book</a></button>
+    </div>
+
+    <div class="up">
+    <button onclick="window.location.href='https://regalhorizonshotel.com//account/login-candidates.php'"><a>Login</a></button>
+      
+        </div>
+<div class="clearfix"></div>
+ 
+
+    </div>
+
+    <!-- End  -->
+    
+    
+    
+ <header> 
+ <div class="nav-bar">
+<div class="logo"><a href="index.php"> Regal Horizons Hotel</a></div>
+<ul class="links">
+<li><a href="index.php" >Home</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="Apply-for-Job.php" >Apply for Job</a></li>
+<li><a href="contact.php">Contact</a></li>
+</ul>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="contact.php" class="action_btn">Get Started</a>
+<div class="toggle_btn">
+    <i class="fa-solid fa-bars" style="color: #FFD43B;"></i>
+</div>
+</div>
+
+
+
+
+
+<div class="dropdown_menu">
+
+
+<div class="">
+
+<li><a class="firstchild" href="stay.php"> Stay</a></li>
+<li><a href="about.php">About us</a></li>
+<li><a  href="Eat-Well.php">Eat & Well</a></li>
+<li><a href="Apply-for-Job.php">Apply for Job</a></li>
+
+</div>
+
+
+<div class="ruler-up">
+
+    <li><a class="firstchild" href="stay.html" >Wellness</li>
+     
+    <li><a href="gym-swim.php" >Gym & Swim</a></li>
+    <li><a href="Spa.php">The Spa</a></li>
+    <div><li><a href="blog.php">Our Blog</a></li></div>
+    </div>
+
+
+    <div class="ruler-up">
+
+        <li><a class="firstchild" href="#" >Mettting  and Occasions</li>
+        <li><a  href="weeding.php">Weddings</a></li>
+        <li><a href="mark-occassion.php">Mark the Occasion</a></li>
+        <li><a href="business.php">Business</a></li>
+        <li><a href="faq.php">Faq</a></li> 
+        </div>
+
+
+    
+
+
+<div><li><a href="contact.php">Contact Us</a></li></div>
+<div><li><a href="privacy-policy.php">privacy-policy</a></li></div>
+
+<li><a href="contact.php" class="action_btn">Get Started</a></li>
+</div>
+
+</header>
+
+<script>
+    
+     const toggle_btn = document.querySelector('.toggle_btn')
+     const toggle_btnIcon = document.querySelector('.toggle_btn i')
+     const dropDownMenu = document.querySelector('.dropdown_menu')
+
+
+      toggle_btn.onclick = function () {
+        dropDownMenu.classList.toggle('open')
+        const isOpen = dropDownMenu.classList.contains('open')
+
+        toggle_btnIcon.classList = isOpen
+        ? 'fa-solid fa-xmark'
+        : 'fa-solid fa-bars'
+      }
+</script>
+
+
+
+
+
